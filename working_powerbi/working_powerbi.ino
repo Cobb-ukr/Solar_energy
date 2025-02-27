@@ -3,9 +3,9 @@
 #include <WiFiUdp.h>
 #include <NTPClient.h>
 
-const char* ssid = "91";
-const char* password = "temp_pwd13";
-const char* powerBiUrl = "https://api.powerbi.com/beta/191dd60d-090a-4459-a071-b03c80f3ac3b/datasets/6cbae5d0-f351-4734-85cf-adc2e51cd738/rows?experience=power-bi&key=qafvoL8E4Q91Xml5OLB6s1iruH39VaW9XtX6AUeUr5g0VlRurbSpBrbbNHbcfCgLh%2B9HR%2B9iT8DLilXdJpTEEg%3D%3D";  
+const char* ssid = "";
+const char* password = "";
+const char* powerBiUrl = "";  
 const char* host = "api.powerbi.com"; 
 
 WiFiClientSecure client;
