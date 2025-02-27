@@ -5,12 +5,12 @@
 #include "env.h"
 
 // WiFi Credentials
-const char WIFI_SSID[] = "91";
-const char WIFI_PASSWORD[] = "temp_pwd13";
+const char WIFI_SSID[] = "";
+const char WIFI_PASSWORD[] = "";
 
 // AWS IoT Details
-const char THINGNAME[] = "ESP82";
-const char MQTT_HOST[] = "a2yy6y3qk9doo3-ats.iot.ap-northeast-1.amazonaws.com";
+const char THINGNAME[] = "";
+const char MQTT_HOST[] = "";
 const char AWS_IOT_PUBLISH_TOPIC[] = "esp8266/pub";
 
 // Timezone offset
